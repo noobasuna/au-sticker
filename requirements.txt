@@ -1,0 +1,13 @@
+cv2
+dlib
+imutils
+PIL
+numpy
+pandas
+causallearn
+torchvision
+torch
+scipy
+tqdm
+deepface
+scikit-learn
