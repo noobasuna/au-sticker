@@ -1,12 +1,13 @@
 # Au-Sticker
 
-**Causal Placement of Adversarial Stickers Against Emotion Leakage**
+**Causal Placement of Adversarial Stickers Against Emotion Leakage - ICASSP2025**
 
 ![ARCH2](https://github.com/user-attachments/assets/4ff34eb8-89b8-433e-acd1-60fc3bd308e1)
 
 ## Overview
 
-Au-Sticker explores the causal placement of adversarial stickers to mitigate emotion leakage in images. This project aims to improve the robustness of emotion recognition systems by strategically placing stickers to challenge and reduce unintended emotional influences.
+Au-Sticker is a research project that explores the causal placement of adversarial stickers to mitigate emotion leakage in facial images. The project uses deep learning models and causal inference to strategically place stickers that challenge emotion recognition systems while maintaining image naturalness.
+
 
 ## Steps to Generate Adversarial Images
 
@@ -29,8 +30,14 @@ Au-Sticker explores the causal placement of adversarial stickers to mitigate emo
   python main.py
 ```
 
-## License
-This project is licensed under the [Your License] License - see the LICENSE file for details.
+### Configuration
+
+You can customize the following parameters:
+- Image size
+- Sticker types and sizes
+- Model architecture
+- Training parameters
+- Output directories
 
 ## Contact
 For any inquiries, please contact at tan.peisze@monash.edu.
