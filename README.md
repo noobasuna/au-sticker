@@ -39,5 +39,20 @@ You can customize the following parameters:
 - Training parameters
 - Output directories
 
+## Citation
+If you find this work useful, please cite our paper:
+
+```bibtex
+@INPROCEEDINGS{10889387,
+  author={Tan, Pei-Sze and Rajanala, Sailaja and Tan, Yee-Fan and Pal, Arghya and Tan, Chun-Ling and Phan, Raphaël C.-W. and Ong, Huey-Fang},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Post-Hoc Adversarial Stickers Against Micro-Expression Leakage}, 
+  year={2025},
+  pages={1-5},
+  doi={10.1109/ICASSP49660.2025.10889387}
+}
+
 ## Contact
 For any inquiries, please contact at tan.peisze@monash.edu.
+
+
