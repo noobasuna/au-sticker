@@ -52,7 +52,7 @@ If you find this work useful, please cite our paper:
   doi={10.1109/ICASSP49660.2025.10889387}
 }
 
-## Contact
+### Contact
 For any inquiries, please contact at tan.peisze@monash.edu.
 
 
