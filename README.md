@@ -38,6 +38,9 @@ You can customize the following parameters:
 - Model architecture
 - Training parameters
 - Output directories
+  
+### Contact
+For any inquiries, please contact at tan.peisze@monash.edu.
 
 ## Citation
 If you find this work useful, please cite our paper:
@@ -52,7 +55,5 @@ If you find this work useful, please cite our paper:
   doi={10.1109/ICASSP49660.2025.10889387}
 }
 
-### Contact
-For any inquiries, please contact at tan.peisze@monash.edu.
 
 
