@@ -39,7 +39,7 @@ You can customize the following parameters:
 - Training parameters
 - Output directories
   
-### Contact
+## Contact
 For any inquiries, please contact at tan.peisze@monash.edu.
 
 ## Citation
@@ -54,6 +54,3 @@ If you find this work useful, please cite our paper:
   pages={1-5},
   doi={10.1109/ICASSP49660.2025.10889387}
 }
-
-
-
